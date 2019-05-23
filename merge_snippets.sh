@@ -22,11 +22,12 @@ printf "\
 ## |  ||  ─  ||  |  ||  ─  | |______| |     ||  ─  ||__ ──||   _||__ ──|\r\n\
 ## |__||  ┌──┘ \___/ |_____|          |__|__||_____||_____||____||_____|\r\n\
 ##     |__|                                                             \r\n\
-##                                                          · lennylxx ·\r\n\
+##                                                          · SiuKam   ·\r\n\
 ##\r\n\
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+\r\n\
 ## |                                                                   |\r\n\
-## |         Project: https://github.com/lennylxx/ipv6-hosts           |\r\n\
+## |         Project: https://github.com/SiuKam/ipv6-hosts             |\r\n\
+## |   Forked from Project: https://github.com/lennylxx/ipv6-hosts     |\r\n\
 ## |         Update : `date    +"%a, %d %b %Y %T %z"`                  |\r\n\
 ## |                                                                   |\r\n\
 ## +-------------------------------------------------------------------+\r\n\
