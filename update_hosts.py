@@ -64,11 +64,12 @@ dns = {
     'google_a': '2001:4860:4860::8888',
     'google_b': '2001:4860:4860::8844',
     'he_net': '2001:470:20::2',
-    'lax_he_net': '2001:470:0:9d::2'
+    'lax_he_net': '2001:470:0:9d::2',
+	'local': '192.168.123.1'
 }
 
 config = {
-    'dns': dns['google_b'],
+    'dns': dns['local'],
     'infile': '',
     'outfile': '',
     'querytype': 'aaaa',
