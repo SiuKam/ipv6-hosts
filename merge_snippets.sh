@@ -8,10 +8,10 @@ fi
 
 new_hosts_file=$1
 
-if [ -f $new_hosts_file ]; then
-    new_hosts_file=${new_hosts_file}".new"
-    printf "" > $new_hosts_file
-fi
+# if [ -f $new_hosts_file ]; then
+#     new_hosts_file=${new_hosts_file}".new"
+#     printf "" > $new_hosts_file
+# fi
 
 export LC_ALL="C"
 
@@ -31,14 +31,14 @@ printf "\
 ## |         Update : `date    +"%a, %d %b %Y %T %z"`                  |\r\n\
 ## |                                                                   |\r\n\
 ## +-------------------------------------------------------------------+\r\n\
-" >> $new_hosts_file
+" > $new_hosts_file
 
 unset LC_ALL
 
 printf "\r\n127.0.0.1 localhost\r\n" >> $new_hosts_file
 printf "::1 localhost ip6-localhost ip6-loopback\r\n\r\n" >> $new_hosts_file
 
-cat hosts.out >> $new_hosts_file
+cat hosts.out | tail -n +20 | head -n -3 >> $new_hosts_file
 
 printf "\
 ## +-------------------------------------------------------------------+\r\n\
