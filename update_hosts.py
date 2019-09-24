@@ -65,11 +65,12 @@ dns = {
     'google_b': '2001:4860:4860::8844',
     'he_net': '2001:470:20::2',
     'lax_he_net': '2001:470:0:9d::2',
-	'local': '192.168.123.1'
+	'local': '192.168.123.1',
+    'THU': '2001:da8::666'
 }
 
 config = {
-    'dns': dns['local'],
+    'dns': dns['THU'],
     'infile': '',
     'outfile': '',
     'querytype': 'aaaa',
