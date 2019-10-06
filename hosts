@@ -10,7 +10,7 @@
 ## |                                                                   |
 ## |         Project: https://github.com/SiuKam/ipv6-hosts             |
 ## |   Forked from Project: https://github.com/lennylxx/ipv6-hosts     |
-## |         Update : Tue, 24 Sep 2019 12:12:37 +0800                  |
+## |         Update : Sun, 06 Oct 2019 14:10:28 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -32,7 +32,7 @@
 
 2404:6800:4008:803::200e google.com
 2404:6800:4008:801::2004 www.google.com
-2404:6800:4012::200e aboutme.google.com #plus.l.google.com
+2404:6800:4008:801::200e aboutme.google.com #plus.l.google.com
 2404:6800:4008:803::200d accounts.google.com #accounts.l.google.com
 2404:6800:4008:801::200e admin.google.com
 2404:6800:4008:c01::5c bpui0.google.com #www3.l.google.com
@@ -42,7 +42,7 @@
 2404:6800:4012:1::200e clients4.google.com #clients.l.google.com
 2404:6800:4012:1::200e clients5.google.com #clients.l.google.com
 2404:6800:4012:1::200e clients6.google.com #clients.l.google.com
-2404:6800:4012::200e contacts.google.com #plus.l.google.com
+2404:6800:4008:801::200e contacts.google.com #plus.l.google.com
 2404:6800:4008:800::200e contributor.google.com #www3.l.google.com
 2404:6800:4008:802::200e cse.google.com
 2404:6800:4012:1::200e design.google.com
@@ -58,7 +58,7 @@
 2404:6800:4008:800::200e goto.google.com #www3.l.google.com
 2404:6800:4008:800::200e gxc.google.com #www3.l.google.com
 2404:6800:4008:800::200e hangouts.google.com #www3.l.google.com
-2404:6800:4008:c00::64 history.google.com #history.l.google.com
+2404:6800:4008:c00::71 history.google.com #history.l.google.com
 2404:6800:4008:800::200e investor.google.com #www3.l.google.com
 2404:6800:4008:801::200e ipv6.google.com #ipv6.l.google.com
 2404:6800:4008:800::200e isp.google.com #www3.l.google.com
@@ -67,16 +67,16 @@
 2404:6800:4012:1::200e linkhelp.clients.google.com #clients.l.google.com
 2404:6800:4012:1::200e upload.clients.google.com #clients.l.google.com
 2404:6800:4012:1::200b m.google.com #mobile.l.google.com
-2404:6800:4012::200e material.google.com
+2404:6800:4008:801::200e material.google.com
 2404:6800:4012:1::200b mobile.google.com #mobile.l.google.com
 2404:6800:4008:800::200e myaccount.google.com #www3.l.google.com
-2404:6800:4008:c00::64 myactivity.google.com #history.l.google.com
-2404:6800:4012::200e notifications.google.com #plus.l.google.com
+2404:6800:4008:c00::71 myactivity.google.com #history.l.google.com
+2404:6800:4008:801::200e notifications.google.com #plus.l.google.com
 2404:6800:4008:800::200e on.google.com #www3.l.google.com
 2404:6800:4012:1::2011 onetoday.google.com #appspot.l.google.com
 2404:6800:4008:800::200e passwords.google.com #www3.l.google.com
 2404:6800:4008:800::200e patents.google.com #www3.l.google.com
-2404:6800:4008:c07::5c payments.google.com
+2404:6800:4008:c00::5c payments.google.com
 2404:6800:4008:800::200e peering.google.com #www3.l.google.com
 2404:6800:4008:801::200e pixel.google.com
 2404:6800:4008:800::200e pki.google.com #www3.l.google.com
@@ -87,52 +87,52 @@
 2404:6800:4008:800::200e santatracker.google.com #www3.l.google.com
 2404:6800:4008:802::200e store.google.com
 2404:6800:4012:1::200e suggestqueries.google.com #suggestqueries.l.google.com
-2404:6800:4008:c07::c0 supl.google.com
+2404:6800:4008:c00::c0 supl.google.com
 2404:6800:4012::200e support.google.com #www3.l.google.com
 2404:6800:4012:1::200f upload.google.com #large-uploads.l.google.com
 2404:6800:4008:801::200e client-channel.google.com
 2404:6800:4008:c07::bd 0.client-channel.google.com
 2404:6800:4008:c07::bd 1.client-channel.google.com
-2404:6800:4008:c07::bd 2.client-channel.google.com
+2404:6800:4008:c00::bd 2.client-channel.google.com
 2404:6800:4008:c03::bd 3.client-channel.google.com
 2404:6800:4008:c07::bd 4.client-channel.google.com
 2404:6800:4008:c07::bd 5.client-channel.google.com
-2404:6800:4008:c07::bd 6.client-channel.google.com
+2404:6800:4008:c00::bd 6.client-channel.google.com
 2404:6800:4008:c00::bd 7.client-channel.google.com
-2404:6800:4008:c00::bd 8.client-channel.google.com
-2404:6800:4008:c00::bd 9.client-channel.google.com
-2404:6800:4008:c04::bd 10.client-channel.google.com
-2404:6800:4008:c00::bd 11.client-channel.google.com
-2404:6800:4008:c07::bd 12.client-channel.google.com
-2404:6800:4008:c07::bd 13.client-channel.google.com
-2404:6800:4008:c04::bd 14.client-channel.google.com
-2404:6800:4008:c04::bd 15.client-channel.google.com
-2404:6800:4008:c03::bd 16.client-channel.google.com
-2404:6800:4008:c00::bd 17.client-channel.google.com
+2404:6800:4008:c01::bd 8.client-channel.google.com
+2404:6800:4008:c01::bd 9.client-channel.google.com
+2404:6800:4008:c07::bd 10.client-channel.google.com
+2404:6800:4008:c01::bd 11.client-channel.google.com
+2404:6800:4008:c00::bd 12.client-channel.google.com
+2404:6800:4008:c00::bd 13.client-channel.google.com
+2404:6800:4008:c06::bd 14.client-channel.google.com
+2404:6800:4008:c06::bd 15.client-channel.google.com
+2404:6800:4008:c04::bd 16.client-channel.google.com
+2404:6800:4008:c01::bd 17.client-channel.google.com
 2404:6800:4008:c03::bd 18.client-channel.google.com
-2404:6800:4008:c06::bd 19.client-channel.google.com
-2404:6800:4008:c04::bd 20.client-channel.google.com
-2404:6800:4008:c04::bd 21.client-channel.google.com
-2404:6800:4008:c01::bd 22.client-channel.google.com
-2404:6800:4008:c07::bd 23.client-channel.google.com
+2404:6800:4008:c07::bd 19.client-channel.google.com
+2404:6800:4008:c05::bd 20.client-channel.google.com
+2404:6800:4008:c06::bd 21.client-channel.google.com
+2404:6800:4008:c02::bd 22.client-channel.google.com
+2404:6800:4008:c00::bd 23.client-channel.google.com
 2404:6800:4008:c07::bd 24.client-channel.google.com
-2404:6800:4008:c04::bd 25.client-channel.google.com
-2404:6800:4008:c05::bd 26.client-channel.google.com
-2404:6800:4008:c02::bd 27.client-channel.google.com
-2404:6800:4008:c03::bd 28.client-channel.google.com
-2404:6800:4008:c03::bd 29.client-channel.google.com
+2404:6800:4008:c07::bd 25.client-channel.google.com
+2404:6800:4008:c07::bd 26.client-channel.google.com
+2404:6800:4008:c03::bd 27.client-channel.google.com
+2404:6800:4008:c04::bd 28.client-channel.google.com
+2404:6800:4008:c04::bd 29.client-channel.google.com
 #2404:6800:4005:805::200e googletagmanager.com
 #2607:f8b0:4005:808::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
 
 ## 谷歌香港
 2404:6800:4008:800::2003 google.com.hk
-2404:6800:4008:c01::c7 www.google.com.hk
+2404:6800:4008:c03::c7 www.google.com.hk
 2404:6800:4008:801::2003 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4012:1::2003 clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
 2404:6800:4012:1::200b m.google.com.hk #m.google.com
 2404:6800:4008:800::200e gxc.google.com.hk #www3.l.google.com
-2404:6800:4012::2003 id.google.com.hk #id.l.google.com
+2404:6800:4008:801::2003 id.google.com.hk #id.l.google.com
 2404:6800:4008:801::200e ipv6.google.com.hk #ipv6.google.com
 2404:6800:4008:801::2004 mobile.google.com.hk #www.google.com
 2404:6800:4012:1::200e picasaweb.google.com.hk #picasaweb.google.com
@@ -198,7 +198,7 @@
 2404:6800:4012:1::2003 www.google.co.uk
 2404:6800:4008:800::2003 www.google.co.ve
 2404:6800:4008:800::2003 www.google.com.vn
-2404:6800:4008:803::2003 www.google.co.za
+2404:6800:4008:802::2003 www.google.co.za
 
 ## Google Apps 企业应用套件
 2404:6800:4008:800::200e apps.google.com #www3.l.google.com
@@ -213,14 +213,14 @@
 2404:6800:4012:1::200e appspot.com
 2404:6800:4008:801::2014 *.appspot.com #appspot.l.google.com
 2404:6800:4008:801::200e www.appspot.com #appspot.l.google.com
-2404:6800:4008:803::2014 betaspike.appspot.com #appspot.l.google.com
+2404:6800:4012:1::2014 betaspike.appspot.com #appspot.l.google.com
 2404:6800:4008:803::2014 chrometophone.appspot.com #appspot.l.google.com
-2404:6800:4012::2014 codereview.appspot.com #appspot.l.google.com
+2404:6800:4008:802::2014 codereview.appspot.com #appspot.l.google.com
 2404:6800:4012:1::2014 evolutionofweb.appspot.com #appspot.l.google.com
 2404:6800:4012::2014 feedly-beta.appspot.com #appspot.l.google.com
 2404:6800:4012:1::2014 googcloudlabs.appspot.com #appspot.l.google.com
 2404:6800:4008:803::2014 googlesharedspaces.appspot.com #appspot.l.google.com
-2404:6800:4008:800::2014 gv-gadget.appspot.com #appspot.l.google.com
+2404:6800:4008:801::2014 gv-gadget.appspot.com #appspot.l.google.com
 2404:6800:4008:802::2014 haiticrisis.appspot.com #appspot.l.google.com
 2404:6800:4012:1::2014 i18napis.appspot.com #appspot.l.google.com
 2404:6800:4008:801::2014 ld-social-stats.appspot.com #appspot.l.google.com
@@ -397,7 +397,7 @@
 
 ## Checkout 买家
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
-2404:6800:4008:c07::5c wallet.google.com
+2404:6800:4008:c00::5c wallet.google.com
 
 ## Chrome 谷歌浏览器
 2001:4860:4802:32::1b www.chrome.com
@@ -422,22 +422,22 @@
 
 ## Code 代码
 2404:6800:4008:801::200e code.google.com #code.l.google.com
-2404:6800:4008:c01::52 *.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 closure-library.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c01::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c06::52 www.googlesource.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c00::52 android.googlesource.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c07::52 chromium.googlesource.com
+2404:6800:4008:c02::52 *.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 closure-library.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c02::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c07::52 www.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c01::52 android.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c00::52 chromium.googlesource.com
 2404:6800:4008:c01::52 boringssl.googlesource.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c04::52 boringssl-review.googlesource.com
-2404:6800:4008:c02::52 chrome-internal.googlesource.com
-2404:6800:4008:c01::52 pdfium.googlesource.com #googlecode.l.googleusercontent.com
-2404:6800:4008:c05::52 skia.googlesource.com
-2404:6800:4008:c04::52 swiftshader.googlesource.com #earth-api-samples.googlecode.com
+2404:6800:4008:c07::52 boringssl-review.googlesource.com
+2404:6800:4008:c03::52 chrome-internal.googlesource.com
+2404:6800:4008:c03::52 pdfium.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4008:c07::52 skia.googlesource.com
+2404:6800:4008:c05::52 swiftshader.googlesource.com #earth-api-samples.googlecode.com
 2404:6800:4008:c00::52 webrtc.googlesource.com #earth-api-samples.googlecode.com
 
 ## Desktop 桌面
@@ -449,14 +449,14 @@
 2404:6800:4008:800::200e storage.cloud.google.com #www3.l.google.com
 2404:6800:4008:800::200e ssh.cloud.google.com
 2404:6800:4008:800::200e developers.google.com #www3.l.google.com
-2404:6800:4012:1::200a clouderrorreporting.clients6.google.com
-2404:6800:4012:1::200a cloudnotifications.clients6.google.com
+2404:6800:4012::200a clouderrorreporting.clients6.google.com
+2404:6800:4008:802::200a cloudnotifications.clients6.google.com
 2404:6800:4008:800::200e cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
-2404:6800:4008:c02::52 source.developers.google.com
-2404:6800:4012::200a cloudusersettings-pa.clients6.google.com
-2404:6800:4012::200a cloudconsole-pa.clients6.google.com
-2404:6800:4012::200a monitoring.clients6.google.com
+2404:6800:4008:c03::52 source.developers.google.com
+2404:6800:4008:802::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4008:802::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:802::200a monitoring.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:800::200e directory.google.com #www3.l.google.com
@@ -479,42 +479,42 @@
 2404:6800:4008:800::200e writely.google.com #www3.l.google.com
 2404:6800:4012:1::200f upload.docs.google.com #large-uploads.l.google.com
 2404:6800:4012:1::200f upload.drive.google.com #large-uploads.l.google.com
-2404:6800:4008:c00::bd *.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd *.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 0.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 1.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 2.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 3.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 4.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 5.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 6.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 7.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 8.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 9.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 10.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 11.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 12.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 13.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 14.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 15.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 16.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 0.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 1.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 2.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 3.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 4.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 5.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 6.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 7.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 8.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 9.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 10.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 11.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 12.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 13.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 14.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 15.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4008:c00::bd 16.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd *.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd *.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 0.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 1.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 2.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 3.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 4.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 5.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 6.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 7.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 8.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 9.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 10.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 11.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 12.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 13.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 14.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 15.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 16.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 0.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 1.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 2.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 3.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 4.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 5.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 6.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 7.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 8.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 9.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 10.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 11.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 12.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 13.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 14.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 15.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c01::bd 16.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4012::200e script.google.com #www3.l.google.com
 2404:6800:4008:800::200e sheets.google.com #www3.l.google.com
 2404:6800:4008:800::200e slides.google.com #www3.l.google.com
@@ -557,7 +557,7 @@
 
 ## Download 下载
 #2404:6800:4008:c07::88 dl.google.com #dl.l.google.com
-2404:6800:4008:c06::5d dl-ssl.google.com #dl-ssl.l.google.com
+2404:6800:4008:c07::5d dl-ssl.google.com #dl-ssl.l.google.com
 
 ## Google Earth 地球
 2404:6800:4008:800::200e earth.google.com #www3.l.google.com
@@ -581,26 +581,26 @@
 2404:6800:4008:802::2005 gmail.com
 2404:6800:4008:800::2005 m.gmail.com #mail.google.com
 2404:6800:4008:800::2005 m.googlemail.com #mail.google.com
-2404:6800:4008:c00::6d pop.gmail.com #gmail-pop.l.google.com
-2404:6800:4008:c04::10 pop.googlemail.com #googlemail-pop.l.google.com
-2404:6800:4008:c04::6c smtp.gmail.com #gmail-smtp-msa.l.google.com
+2404:6800:4008:c02::6d pop.gmail.com #gmail-pop.l.google.com
+2404:6800:4008:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
+2404:6800:4008:c05::6d smtp.gmail.com #gmail-smtp-msa.l.google.com
 #2404:6800:4008:c00::62 smtp1.google.com
 #2404:6800:4008:c00::62 smtp2.google.com
 #2404:6800:4008:c00::62 smtp3.google.com
 #2404:6800:4008:c00::62 smtp-out.google.com
 #2404:6800:4008:c00::62 smtp-out3.google.com
-2404:6800:4008:c04::10 smtp.googlemail.com #googlemail-smtp.l.google.com
-2404:6800:4008:c04::6c imap.gmail.com #gmail-imap.l.google.com
-2404:6800:4008:c02::10 imap.googlemail.com #googlemail-imap.l.google.com
+2404:6800:4008:c06::10 smtp.googlemail.com #googlemail-smtp.l.google.com
+2404:6800:4008:c07::6d imap.gmail.com #gmail-imap.l.google.com
+2404:6800:4008:c07::10 imap.googlemail.com #googlemail-imap.l.google.com
 
 ## Group 论坛
 #2401:3800:c001::68 groups.google.cn
-2404:6800:4008:c07::71 groups.google.com #groups.l.google.com
-2404:6800:4008:c07::71 groups.google.com.hk #groups.google.com
-2404:6800:4008:c07::71 groups-beta.google.com #groups.l.google.com
-2404:6800:4008:c07::71 productforums.google.com #groups.l.google.com
-2404:6800:4008:c07::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
-2404:6800:4008:c07::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
+2404:6800:4008:c07::8b groups.google.com #groups.l.google.com
+2404:6800:4008:c07::8b groups.google.com.hk #groups.google.com
+2404:6800:4008:c07::8b groups-beta.google.com #groups.l.google.com
+2404:6800:4008:c07::8b productforums.google.com #groups.l.google.com
+2404:6800:4008:c00::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
+2404:6800:4008:c00::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 
 ## Health 健康
 2404:6800:4008:800::200e health.google.com #www3.l.google.com
@@ -693,7 +693,7 @@
 2404:6800:4008:800::200e mt3.google.com #mt.l.google.com
 2404:6800:4008:803::200e gg.google.com
 2404:6800:4008:802::200e gg.google.cn
-2404:6800:4012::2003 id.google.com #id.l.google.com
+2404:6800:4008:801::2003 id.google.com #id.l.google.com
 #2404:6800:4005:805::200e id.google.cn #id.l.google.com
 #2404:6800:4008:c04::a0 ditu.google.cn
 #2404:6800:4008:c04::a0 mt.google.cn #ditu.google.cn
@@ -711,7 +711,7 @@
 
 ## Music Beta by Google 云音乐服务
 2404:6800:4008:800::200e music.google.com #www3.l.google.com
-2404:6800:4008:c01::74 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
+2404:6800:4008:c07::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:4012::2001 music.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4012:1::200f uploadsj.clients.google.com #large-uploads.l.google.com
 
@@ -723,7 +723,7 @@
 
 ## Orkut 网络社区
 #2404:6800:4003:c00::55 www.orkut.com #orkut-fe.l.google.com
-2404:6800:4012::2001 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
+2404:6800:4008:802::2001 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
 2404:6800:4012::2001 *.a.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
 #2404:6800:4003:c01::57 img1.orkut.com #orkut-images.l.google.com
 #2404:6800:4003:c02::55 img2.orkut.com #orkut-images.l.google.com
@@ -762,7 +762,7 @@
 
 ## Profiles 个人主页
 2404:6800:4008:802::200e profiles.google.com
-2404:6800:4012::200e plusone.google.com #plus.l.google.com
+2404:6800:4008:801::200e plusone.google.com #plus.l.google.com
 2404:6800:4012::200e plus.google.com #plus-china.l.google.com
 #2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
 2404:6800:4008:800::200e plus.url.google.com #www3.l.google.com
@@ -778,12 +778,12 @@
 2404:6800:4012:1::200e sb.google.com #sb.l.google.com
 2404:6800:4008:802::200e sb-ssl.google.com #sb-ssl.l.google.com
 2404:6800:4012:1::200e safebrowsing.google.com #sb.l.google.com
-2404:6800:4004:80e::200e alt1-safebrowsing.google.com
+2404:6800:4004:81a::200e alt1-safebrowsing.google.com
 2404:6800:4012:1::200e safebrowsing.clients.google.com #clients.l.google.com
 #2404:6800:4008:c05::71 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
 ## Sandbox 服务沙盒
-2404:6800:4008:c07::451 sandbox.google.com #sandbox.l.google.com
+2404:6800:4008:c00::451 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
 #2404:6800:4008:c06::be scholar.google.com
@@ -799,12 +799,12 @@
 #2404:6800:4008:c00::66 sketchup.google.com
 
 ## Google Talk/Chat 聊天
-2404:6800:4008:c04::7d talk.google.com #talk.l.google.com
+2404:6800:4008:c06::7d talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
 2404:6800:4008:801::200e talkgadget.google.com #talkgadget.l.google.com
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
-2404:6800:4008:c03::bc mtalk.google.com #mobile-gtalk.l.google.com
+2404:6800:4008:c07::bc mtalk.google.com #mobile-gtalk.l.google.com
 
 ## Tensorflow 主页
 2404:6800:4008:800::200e www.tensorflow.org #www3-china.l.google.com
@@ -817,7 +817,7 @@
 ## Translate 翻译
 2404:6800:4008:800::200e translate.google.com #www3.l.google.com
 2404:6800:4012::2003 translate.google.com.hk
-2404:6800:4012::2003 translate.google.com.tw
+2404:6800:4008:801::2003 translate.google.com.tw
 #2404:6800:4005:805::200e translate.google.cn #www.google.cn
 
 ## Trends 趋势
@@ -839,25 +839,25 @@
 
 ## iGoogle Modules iGoogle 小工具
 2404:6800:4012::2004 gmodules.com
-2404:6800:4012::2001 www.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 ads.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 p.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 maps.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:803::2001 www.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:800::2001 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4012:1::2001 ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:803::2001 ads.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:802::2001 p.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:803::2001 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:800::2001 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4012:1::2001 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:800::2001 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:802::2001 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4012:1::2001 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:800::2001 maps.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:4012::2001 img0.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 img1.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 img2.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 img3.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4012::2001 skins.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4012:1::2001 img1.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:801::2001 img2.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4008:802::2001 img3.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4012:1::2001 skins.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:800::200e friendconnect.gmodules.com #gadgets.l.googleusercontent.com
-2404:6800:4008:800::200e 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
+2404:6800:4012:1::200e 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
 2404:6800:4008:800::2004 partnerpage.google.com #www2.l.google.com
 2404:6800:4012::2001 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
@@ -869,25 +869,25 @@
 2404:6800:4008:801::2001 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4012::2001 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4012::2001 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 mua3.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 mua4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 mua5.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 mua6.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4012::2001 mua6.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2001 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4008:803::2001 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
 #2404:6800:4008:c00::62 nt4.ggpht.com
 #2404:6800:4008:c00::62 nt5.ggpht.com
 2404:6800:4008:801::2001 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4008:802::2001 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c04::85 ap1.googleusercontent.com #photos-ugc-lopri.l.googleusercontent.com
-2404:6800:4008:801::2001 ap2.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4012:1::2001 ap2.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2404:6800:4012::2001 ap3.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4012::2001 ap4.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4012::2001 ap5.googleusercontent.com #googlehosted.l.googleusercontent.com
@@ -899,9 +899,9 @@
 2404:6800:4012::2001 gp1.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4012::2001 gp2.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:801::2001 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:801::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4012::2001 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4008:803::2001 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4008:803::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
 2404:6800:4008:800::2003 gstatic.com
@@ -936,7 +936,7 @@
 #2404:6800:4005:80b::2003 p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-s1-v6exp3-v4.metric.gstatic.com
 
 ## Google APIs 开发接口服务
-2404:6800:4012::200e apis.google.com #plus.l.google.com
+2404:6800:4008:801::200e apis.google.com #plus.l.google.com
 2404:6800:4012:1::200e chart.apis.google.com #clients.l.google.com
 2404:6800:4008:802::2004 googleapis.com
 2404:6800:4012:1::200a www.googleapis.com #googleapis.l.google.com
@@ -947,7 +947,7 @@
 2404:6800:4012:1::200a chart.googleapis.com #googleapis.l.google.com
 2404:6800:4012:1::200a content.googleapis.com #googleapis.l.google.com
 2404:6800:4012:1::200a firebasestorage.googleapis.com #googleapis.l.google.com
-2404:6800:4009:810::200a fonts.googleapis.com #googleapis.l.google.com
+2404:6800:4009:80e::200a fonts.googleapis.com #googleapis.l.google.com
 2404:6800:4012:1::200a maps.googleapis.com #googleapis.l.google.com
 2404:6800:4012:1::200a play.googleapis.com #googleapis.l.google.com
 2404:6800:4012:1::200a plus.googleapis.com #googleapis.l.google.com
@@ -1055,7 +1055,7 @@
 ## Panoramio
 2404:6800:4008:800::200e www.panoramio.com #appspot.l.google.com
 2404:6800:4008:800::200e static.panoramio.com #c.storage.googleapis.com
-2404:6800:4008:800::200e blog.panoramio.com #ghs.google.com
+#2404:6800:4008:800::200e blog.panoramio.com #ghs.google.com
 
 ## Polymer project
 #2404:6800:4008:c04::79 www.polymer-project.com #ghs.google.com
@@ -1127,20 +1127,20 @@
 2404:6800:4012::200d accounts.l.google.com #accounts-china.l.google.com
 2404:6800:4008:801::2003 accounts-cctld.l.google.com
 #2404:6800:4008:c00::62 afd.l.google.com
-2607:f8b0:4003:c13::7d alt1.talk.l.google.com
+2607:f8b0:4003:c18::7d alt1.talk.l.google.com
 2404:6800:4012::200e android-market.l.google.com
 #2404:6800:4008:c06::be android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
-2404:6800:4008:c01::71 adwords.l.google.com #adwords-china.l.google.com
+2404:6800:4008:c01::8b adwords.l.google.com #adwords-china.l.google.com
 2404:6800:4012:1::2011 appspot.l.google.com
-2404:6800:4008:c04::1a aspmx.l.google.com
+2404:6800:4008:c06::1a aspmx.l.google.com
 2404:6800:4008:801::2007 b.googlemail.l.google.com
 #2404:6800:4008:c03::71 bandaid-redirector.l.google.com
 2404:6800:4008:801::2009 blogger.l.google.com
 2404:6800:4008:803::200e bloggerphotos.l.google.com
 2404:6800:4008:801::2001 blogspot.l.google.com
 #2404:6800:4008:c00::66 browsersync.l.google.com
-2404:6800:4008:c01::bd browserchannel-docs.l.google.com
+2404:6800:4008:c02::bd browserchannel-docs.l.google.com
 #2404:6800:4008::7 cache.l.google.com
 2404:6800:4008:802::200e cbk.l.google.com
 2404:6800:4008:801::200e code.l.google.com
@@ -1151,29 +1151,29 @@
 #2a00:1450:4013:c05::5e csi.l.google.com
 #2404:6800:4008:c00::68 desktop.l.google.com
 #2404:6800:4008:c00::5b dl.l.google.com
-2404:6800:4008:c06::5d dl-ssl.l.google.com
+2404:6800:4008:c07::5d dl-ssl.l.google.com
 #2404:6800:4008:c03::63 ds.ipv6test.l.google.com
 2404:6800:4012:1::200e encrypted-tbn.l.google.com
 2404:6800:4008:801::200e gadgets.l.google.com
-2404:6800:4008:c01::6c gmail-imap.l.google.com
-2404:6800:4008:c00::6d gmail-pop.l.google.com
-2404:6800:4008:c01::6d gmail-smtp.l.google.com
-2404:6800:4008:c04::1b gmail-smtp-in.l.google.com
-2404:6800:4008:c04::6c gmail-smtp-msa.l.google.com
+2404:6800:4008:c04::6c gmail-imap.l.google.com
+2404:6800:4008:c02::6d gmail-pop.l.google.com
+2404:6800:4008:c01::6c gmail-smtp.l.google.com
+2404:6800:4008:c05::1a gmail-smtp-in.l.google.com
+2404:6800:4008:c05::6d gmail-smtp-msa.l.google.com
 2404:6800:4012::2013 ghs.l.google.com
 2404:6800:4012:1::2013 ghs46.l.google.com
 2404:6800:4008:c00::e gmr-smtp-in.l.google.com
 2404:6800:4012:1::200a googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.l.google.com
-2404:6800:4008:c06::52 googlecode.l.google.com
+2404:6800:4008:c07::52 googlecode.l.google.com
 2404:6800:4008:803::2001 googlehosted.l.google.com
 2404:6800:4008:800::2005 googlemail.l.google.com #mail-china.l.google.com
-2404:6800:4008:c02::10 googlemail-imap.l.google.com
-2404:6800:4008:c04::10 googlemail-pop.l.google.com
-2404:6800:4008:c04::10 googlemail-smtp.l.google.com
-2404:6800:4008:c07::71 groups.l.google.com #groups-china.l.google.com
-2404:6800:4008:c00::64 history.l.google.com
-2404:6800:4012::2003 id.l.google.com
+2404:6800:4008:c07::10 googlemail-imap.l.google.com
+2404:6800:4008:c00::10 googlemail-pop.l.google.com
+2404:6800:4008:c06::10 googlemail-smtp.l.google.com
+2404:6800:4008:c07::8b groups.l.google.com #groups-china.l.google.com
+2404:6800:4008:c00::66 history.l.google.com
+2404:6800:4008:801::2003 id.l.google.com
 2404:6800:4012:1::200e images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
 2404:6800:4008:801::200e ipv6.l.google.com
@@ -1188,11 +1188,11 @@
 2404:6800:4012:1::200e maps.l.google.com #maps-china.l.google.com
 2404:6800:4008:801::2003 maps-cctld.l.google.com
 2404:6800:4012:1::200b mobile.l.google.com
-2404:6800:4008:c03::bc mobile-gtalk.l.google.com
+2404:6800:4008:c07::bc mobile-gtalk.l.google.com
 2404:6800:4008:800::200e mt.l.google.com
 2404:6800:4008:800::200e mts.l.google.com #mts-china.l.google.com
 2404:6800:4008:802::2001 music-china.l.google.com
-2404:6800:4008:c01::74 music-streaming.l.google.com
+2404:6800:4008:c03::75 music-streaming.l.google.com
 2404:6800:4012:1::200e mw-medium.l.google.com
 2404:6800:4012::200e mw-small.l.google.com
 2404:6800:4012:1::200e news.l.google.com
@@ -1207,9 +1207,9 @@
 #2404:6800:4008:c07::84 pagead-googlehosted.l.google.com
 #2404:6800:4008:c00::9a partnerad.l.google.com
 2404:6800:4012:1::200e picasaweb.l.google.com
-2404:6800:4012::200e plus.l.google.com #plus-china.l.google.com
+2404:6800:4008:801::200e plus.l.google.com #plus-china.l.google.com
 2404:6800:4008:803::2001 photos-ugc.l.google.com
-2404:6800:4008:c07::451 sandbox.l.google.com
+2404:6800:4008:c00::451 sandbox.l.google.com
 #2404:6800:4008:c05::8b safebrowsing.cache.l.google.com
 2404:6800:4012:1::200e sb.l.google.com
 2404:6800:4008:802::200e sb-ssl.l.google.com
@@ -1222,13 +1222,13 @@
 #2607:f8b0:4005:400::17 static.cache.l.google.com
 2404:6800:4012:1::200e suggestqueries.l.google.com
 2404:6800:4012::2004 tbn.l.google.com
-2404:6800:4008:c04::7d talk.l.google.com
+2404:6800:4008:c06::7d talk.l.google.com
 2404:6800:4008:801::200e talkgadget.l.google.com
-2607:f8b0:4003:c13::7d talkx.l.google.com #alt1.talk.l.google.com
+2607:f8b0:4003:c18::7d talkx.l.google.com #alt1.talk.l.google.com
 #2404:6800:4008:c07::68 toolbarqueries.l.google.com
 #2404:6800:4008:c03::64 tools.l.google.com #tools-china.l.google.com
 2404:6800:4008:803::200e video.l.google.com #video-china.l.google.com
-2404:6800:4008:c07::64 video-stats.l.google.com
+2404:6800:4008:c04::65 video-stats.l.google.com
 2404:6800:4012::200e video-analytics.l.google.com
 2404:6800:4008:803::200e video-thumbnails.l.google.com
 #2404:6800:4008:c04::7b wifi.l.google.com
@@ -1237,10 +1237,10 @@
 #2404:6800:4008:c06::66 writely-china.l.google.com
 #2404:6800:4008:c06::71 www-google-analytics.l.google.com
 #2404:6800:4008:c07::61 www-googletagmanager.l.google.com
-2404:6800:4008:c01::c7 www-wide.l.google.com
-2404:6800:4012::200e youtube-ui.l.google.com #youtube-ui-china.l.google.com
+2404:6800:4008:c03::c7 www-wide.l.google.com
+2404:6800:4008:801::200e youtube-ui.l.google.com #youtube-ui-china.l.google.com
 2404:6800:4008:800::200f yt-video-upload.l.google.com
-2404:6800:4005:807::200e ytimg.l.google.com
+2404:6800:4005:80e::200e ytimg.l.google.com
 2404:6800:4008:801::200e ytstatic.l.google.com
 
 ## AdWords/AdSense 广告服务
@@ -1248,8 +1248,8 @@
 #2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9c pagead2.googlesyndication.com #pagead46.l.doubleclick.net
-2404:6800:4008:c07::8b adwords.google.com #adwords.l.google.com
-2404:6800:4008:c01::71 adwords.google.sk #adwords.l.google.com
+2404:6800:4008:c07::8a adwords.google.com #adwords.l.google.com
+2404:6800:4008:c01::8b adwords.google.sk #adwords.l.google.com
 #2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::62 pagead.google.com
 #2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
@@ -1514,8 +1514,8 @@
 
 ## Android Google 移动操作系统
 2404:6800:4008:800::200e www.android.com #www3.l.google.com
-2404:6800:4008:801::2004 android.com
-2404:6800:4008:802::200e connectivitycheck.android.com
+2404:6800:4012:1::2004 android.com
+2404:6800:4008:801::200e connectivitycheck.android.com
 2404:6800:4008:800::200e developer.android.com #www3.l.google.com
 2404:6800:4008:800::200e source.android.com #www3.l.google.com
 2404:6800:4012::200e market.android.com #android-market.l.google.com
@@ -2420,13 +2420,13 @@
 2404:6800:4012::2001 www.googleusercontent.com
 2404:6800:4012::2001 androidmarket.googleusercontent.com
 2404:6800:4012::2001 apidata.googleusercontent.com
-2404:6800:4008:801::2001 ap2.googleusercontent.com
+2404:6800:4012:1::2001 ap2.googleusercontent.com
 2404:6800:4012::2001 blogger.googleusercontent.com
 2404:6800:4008:800::2001 blogspot.l.googleusercontent.com
 2404:6800:4008:800::200e gadgets.l.googleusercontent.com
 2404:6800:4012::2001 googlehosted.l.googleusercontent.com
-2404:6800:4008:c01::52 googlecode.l.googleusercontent.com
-2404:6800:4008:c07::89 googlegroups.l.googleusercontent.com
+2404:6800:4008:c02::52 googlecode.l.googleusercontent.com
+2404:6800:4008:c00::89 googlegroups.l.googleusercontent.com
 #2404:6800:4003:c01::55 orkut-opensocial.l.googleusercontent.com
 2404:6800:4008:801::2001 photos-ugc.l.googleusercontent.com
 2404:6800:4008:801::2010 storage.l.googleusercontent.com
@@ -2555,8 +2555,8 @@
 2404:6800:4012::2001 lh5.googleusercontent.com
 2404:6800:4012::2001 lh6.googleusercontent.com
 2404:6800:4012::2001 mail-attachment.googleusercontent.com
-2404:6800:4008:801::2001 mua3.googleusercontent.com
-2404:6800:4008:801::2001 mua4.googleusercontent.com
+2404:6800:4008:802::2001 mua3.googleusercontent.com
+2404:6800:4008:803::2001 mua4.googleusercontent.com
 2404:6800:4008:801::2001 mua5.googleusercontent.com
 2404:6800:4008:801::2001 mua6.googleusercontent.com
 2404:6800:4012::2001 music.googleusercontent.com
@@ -2571,7 +2571,7 @@
 2404:6800:4012::2001 reader.googleusercontent.com
 2404:6800:4012::2001 s1.googleusercontent.com
 2404:6800:4012::2001 s2.googleusercontent.com
-2404:6800:4012::2001 sj.googleusercontent.com
+2404:6800:4008:801::2001 sj.googleusercontent.com
 2404:6800:4012::2001 scholar.googleusercontent.com
 2404:6800:4012::2001 spreadsheets-opensocial.googleusercontent.com
 2404:6800:4012::2001 static.googleusercontent.com
@@ -2687,42 +2687,42 @@
 
 ## YouTube
 2404:6800:4008:801::200e youtube.com
-2404:6800:4012::200e www.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e au.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e ca.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e de.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e fr.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e jp.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e ru.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e uk.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e tw.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e gaming.youtube.com #youtube-ui.l.google.com
-2404:6800:4012::200e music.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e www.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e au.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e ca.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e de.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e fr.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e jp.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e ru.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e uk.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e gaming.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e music.youtube.com #youtube-ui.l.google.com
 2404:6800:4008:800::200e ads.youtube.com #www3.l.google.com
-2404:6800:4012::200e www.youtube-nocookie.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4008:803::200e m.youtube.com
 2404:6800:4008:802::200e youtu.be
 2404:6800:4008:800::200e gdata.youtube.com #www4.l.google.com
 #2404:6800:4008:c03::74 stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c07::64 s.youtube.com #video-stats.l.google.com
+2404:6800:4008:c04::65 s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
 2404:6800:4008:800::200e accounts.youtube.com #www3.l.google.com
-2404:6800:4005:807::200e img.youtube.com #ytimg.l.google.com
+2404:6800:4005:80e::200e img.youtube.com #ytimg.l.google.com
 2404:6800:4008:801::2004 help.youtube.com #www.google.com
 2404:6800:4008:800::200f upload.youtube.com #yt-video-upload.l.google.com
 #2404:6800:4008:c06::75 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4012::200e insight.youtube.com #video-analytics.google.com
 2404:6800:4008:800::200e apiblog.youtube.com #www3.l.google.com
-2404:6800:4012::200e youtubei.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:801::200e youtubei.youtube.com #youtube-ui.l.google.com
 
 #2404:6800:4008:c00::64 clients1.youtube.com
 
-2404:6800:4005:807::2016 i.ytimg.com #ytimg.l.google.com
-2404:6800:4005:807::200e i1.ytimg.com #ytimg.l.google.com
-2404:6800:4005:807::200e i2.ytimg.com #ytimg.l.google.com
-2404:6800:4005:807::200e i3.ytimg.com #ytimg.l.google.com
-2404:6800:4005:807::200e i4.ytimg.com #ytimg.l.google.com
-2404:6800:4008:801::200e s.ytimg.com #ytstatic.l.google.com
+2404:6800:4005:809::2016 i.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i1.ytimg.com #ytimg.l.google.com
+2404:6800:4005:810::200e i2.ytimg.com #ytimg.l.google.com
+2404:6800:4005:803::200e i3.ytimg.com #ytimg.l.google.com
+2404:6800:4005:80c::200e i4.ytimg.com #ytimg.l.google.com
+2404:6800:4008:803::200e s.ytimg.com #ytstatic.l.google.com
 
 ## Google Video
 2404:6800:4008:803::200e video.google.com #video.l.google.com
@@ -2737,7 +2737,7 @@
 #2404:6800:4008:c06::8b 5.gvt0.com #video-thumbnails.l.google.com
 
 2404:6800:4008:803::200f upload.video.google.com #sslvideo-upload.l.google.com
-2404:6800:4008:c07::64 video-stats.video.google.com #video-stats.l.google.com
+2404:6800:4008:c04::65 video-stats.video.google.com #video-stats.l.google.com
 2404:6800:4008:801::200e manifest.googlevideo.com
 
 ## c.youtube.com和googlevideo.com指向的IP相同
@@ -12240,14 +12240,14 @@
 #2a00:f46:0:9101::11 r6---sn-u2oxu-3ufl.googlevideo.com
 #2a00:f46:0:9101::12 r7---sn-u2oxu-3ufl.googlevideo.com
 #2a00:f46:0:9101::13 r8---sn-u2oxu-3ufl.googlevideo.com
-2a00:f46:0:a101::c r1---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::d r2---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::e r3---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::f r4---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::10 r5---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::11 r6---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::12 r7---sn-u2oxu-ajws.googlevideo.com
-2a00:f46:0:a101::13 r8---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::c r1---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::d r2---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::e r3---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::f r4---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::10 r5---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::11 r6---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::12 r7---sn-u2oxu-ajws.googlevideo.com
+#2a00:f46:0:a101::13 r8---sn-u2oxu-ajws.googlevideo.com
 2a00:1028:7ff:2c::c r1---sn-vufvj1-2gbe.googlevideo.com
 2a00:1028:7ff:2c::d r2---sn-vufvj1-2gbe.googlevideo.com
 2a00:1028:7ff:2c::e r3---sn-vufvj1-2gbe.googlevideo.com
@@ -23812,12 +23812,12 @@
 #2a00:1450:4021:7::17 r18---sn-h0j7sn7d.googlevideo.com
 #2a00:1450:4021:7::18 r19---sn-h0j7sn7d.googlevideo.com
 #2a00:1450:4021:7::19 r20---sn-h0j7sn7d.googlevideo.com
-2a00:1450:4021:8::7 r1---sn-h0jeen7r.googlevideo.com
-2a00:1450:4021:8::8 r2---sn-h0jeen7r.googlevideo.com
-2a00:1450:4021:8::9 r3---sn-h0jeen7r.googlevideo.com
-2a00:1450:4021:8::a r4---sn-h0jeen7r.googlevideo.com
-2a00:1450:4021:8::b r5---sn-h0jeen7r.googlevideo.com
-2a00:1450:4021:8::c r6---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::7 r1---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::8 r2---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::9 r3---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::a r4---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::b r5---sn-h0jeen7r.googlevideo.com
+#2a00:1450:4021:8::c r6---sn-h0jeen7r.googlevideo.com
 #2a00:1450:4021:9::6 r1---sn-h0j7sn7y.googlevideo.com
 #2a00:1450:4021:9::7 r2---sn-h0j7sn7y.googlevideo.com
 #2a00:1450:4021:9::8 r3---sn-h0j7sn7y.googlevideo.com
@@ -24120,9 +24120,9 @@
 2a03:2880:f00c:212:face:b00c:0:3 scontent-a.xx.fbcdn.net
 2a03:2880:f00c:212:face:b00c:0:3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:19:face:b00c:0:3 scontent-a-sin.xx.fbcdn.net
-2a03:2880:f00c:212:face:b00c:0:3 scontent-b-sin.xx.fbcdn.net
-2a03:2880:f00d:115:face:b00c:0:3 scontent-a-lax.xx.fbcdn.net
-2a03:2880:f00d:8:face:b00c:0:1 scontent-b-lax.xx.fbcdn.net
+2a03:2880:f039:20:face:b00c:0:3 scontent-b-sin.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c:0:1 scontent-a-lax.xx.fbcdn.net
+2a03:2880:f00d:115:face:b00c:0:3 scontent-b-lax.xx.fbcdn.net
 #2a03:2880:f034:1a:face:b00c:0:3 scontent-ams3-1.xx.fbcdn.net
 2a03:2880:f006:21:face:b00c:0:3 scontent-amt2-1.xx.fbcdn.net
 2a03:2880:f00a:e:face:b00c:0:3 scontent-arn2-1.xx.fbcdn.net
@@ -24194,7 +24194,7 @@
 2600:1417:8000::b81c:da60 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
 2600:1417:8000::b81c:da59 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
 2600:1417:8000::b81c:da59 fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
-2600:1417:8000::b81c:da09 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2600:1417:8000::b81c:da2b fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
 #2600:1406:3c::6863:ee5b fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
 #2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
 #2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
@@ -24242,18 +24242,18 @@
 #2600:1409:a::173b:be13 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
 
 ## Instagram
-2406:da00:ff00::35d:e9ce instagram.com
-2406:da00:ff00::35d:e9ce www.instagram.com
-2406:da00:ff00::35d:e9ce i.instagram.com
-2406:da00:ff00::35d:e9ce l.instagram.com
-2406:da00:ff00::35d:e9ce api.instagram.com
-2406:da00:ff00::35d:e9ce help.instagram.com
+2406:da00:ff00::35b:87d7 instagram.com
+2406:da00:ff00::35b:87d7 www.instagram.com
+2406:da00:ff00::35b:87d7 i.instagram.com
+2406:da00:ff00::35b:87d7 l.instagram.com
+2406:da00:ff00::35b:87d7 api.instagram.com
+2406:da00:ff00::35b:87d7 help.instagram.com
 2a03:2880:f00c:20d:face:b00c:0:2 blog.instagram.com
-2406:da00:ff00::35d:e9ce graph.instagram.com
-2406:da00:ff00::35d:e9ce logger.instagram.com
-2406:da00:ff00::35d:e9ce badges.instagram.com
-2406:da00:ff00::35d:e9ce platform.instagram.com
-2406:da00:ff00::35d:e9ce maps.instagram.com
+2406:da00:ff00::35b:87d7 graph.instagram.com
+2406:da00:ff00::35b:87d7 logger.instagram.com
+2406:da00:ff00::35b:87d7 badges.instagram.com
+2406:da00:ff00::35b:87d7 platform.instagram.com
+2406:da00:ff00::35b:87d7 maps.instagram.com
 2a03:2880:f242:cb:face:b00c:0:43fe scontent.cdninstagram.com
 2a03:2880:f242:cb:face:b00c:0:43fe scontent-a.cdninstagram.com
 2a03:2880:f242:cb:face:b00c:0:43fe scontent-b.cdninstagram.com
@@ -24262,7 +24262,7 @@
 2a03:2880:f206:c4:face:b00c:0:43fe scontent-a-amt.cdninstagram.com
 2a03:2880:f206:c4:face:b00c:0:43fe scontent-b-amt.cdninstagram.com
 2a03:2880:f20a:c4:face:b00c:0:43fe scontent-a-arn.cdninstagram.com
-2a03:2880:f20a:c4:face:b00c:0:43fe scontent-b-arn.cdninstagram.com
+2a03:2880:f20a:1c6:face:b00c:0:43fe scontent-b-arn.cdninstagram.com
 2a03:2880:f211:c4:face:b00c:0:43fe scontent-a-atl.cdninstagram.com
 2a03:2880:f211:c4:face:b00c:0:43fe scontent-b-atl.cdninstagram.com
 2a03:2880:f22b:c4:face:b00c:0:43fe scontent-a-bog.cdninstagram.com
@@ -24283,16 +24283,16 @@
 2a03:2880:f232:c4:face:b00c:0:43fe scontent-b-dub.cdninstagram.com
 2a03:2880:f210:c4:face:b00c:0:43fe scontent-a-eze.cdninstagram.com
 2a03:2880:f210:c4:face:b00c:0:43fe scontent-b-eze.cdninstagram.com
-2a03:2880:f21c:80c4:face:b00c:0:43fe scontent-a-frt.cdninstagram.com
+2a03:2880:f21c:81c4:face:b00c:0:43fe scontent-a-frt.cdninstagram.com
 2a03:2880:f21c:81c4:face:b00c:0:43fe scontent-b-frt.cdninstagram.com
 2a03:2880:f22d:c4:face:b00c:0:43fe scontent-a-frx.cdninstagram.com
 2a03:2880:f22d:c4:face:b00c:0:43fe scontent-b-frx.cdninstagram.com
 2a03:2880:f233:c4:face:b00c:0:43fe scontent-a-gig.cdninstagram.com
 2a03:2880:f233:c4:face:b00c:0:43fe scontent-b-gig.cdninstagram.com
 2a03:2880:f205:c4:face:b00c:0:43fe scontent-a-gru.cdninstagram.com
-2a03:2880:f205:2c4:face:b00c:0:43fe scontent-b-gru.cdninstagram.com
+2a03:2880:f205:c4:face:b00c:0:43fe scontent-b-gru.cdninstagram.com
 2a03:2880:f202:c2:face:b00c:0:43fe scontent-a-hkg.cdninstagram.com
-2a03:2880:f202:1c4:face:b00c:0:43fe scontent-b-hkg.cdninstagram.com
+2a03:2880:f202:c2:face:b00c:0:43fe scontent-b-hkg.cdninstagram.com
 2a03:2880:f203:c4:face:b00c:0:43fe scontent-a-iad.cdninstagram.com
 2a03:2880:f203:c4:face:b00c:0:43fe scontent-b-iad.cdninstagram.com
 2a03:2880:f215:c4:face:b00c:0:43fe scontent-a-icn.cdninstagram.com
@@ -24301,8 +24301,8 @@
 2a03:2880:f224:c4:face:b00c:0:43fe scontent-b-jnb.cdninstagram.com
 2a03:2880:f22a:c4:face:b00c:0:43fe scontent-a-kut.cdninstagram.com
 2a03:2880:f22a:c4:face:b00c:0:43fe scontent-b-kut.cdninstagram.com
-2a03:2880:f20d:c4:face:b00c:0:43fe scontent-a-lax.cdninstagram.com
-2a03:2880:f20d:c4:face:b00c:0:43fe scontent-b-lax.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c:0:43fe scontent-a-lax.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c:0:43fe scontent-b-lax.cdninstagram.com
 2a03:2880:f212:c4:face:b00c:0:43fe scontent-a-lga.cdninstagram.com
 2a03:2880:f212:c4:face:b00c:0:43fe scontent-b-lga.cdninstagram.com
 2a03:2880:f21a:c4:face:b00c:0:43fe scontent-a-lhr.cdninstagram.com
@@ -24311,7 +24311,7 @@
 2a03:2880:f229:c4:face:b00c:0:43fe scontent-b-lht.cdninstagram.com
 2a03:2880:f204:c4:face:b00c:0:43fe scontent-a-mad.cdninstagram.com
 2a03:2880:f204:c4:face:b00c:0:43fe scontent-b-mad.cdninstagram.com
-2a03:2880:f22c:1c4:face:b00c:0:43fe scontent-a-mia.cdninstagram.com
+2a03:2880:f22c:c4:face:b00c:0:43fe scontent-a-mia.cdninstagram.com
 2a03:2880:f22c:1c4:face:b00c:0:43fe scontent-b-mia.cdninstagram.com
 2a03:2880:f242:cb:face:b00c:0:43fe scontent-a-mrs.cdninstagram.com
 2a03:2880:f242:cb:face:b00c:0:43fe scontent-b-mrs.cdninstagram.com
@@ -24321,15 +24321,15 @@
 2a03:2880:f20f:c4:face:b00c:0:43fe scontent-b-nrt.cdninstagram.com
 #2a03:2880:f20b:c4:face:b00c:0:43fe scontent-a-ord.cdninstagram.com
 #2a03:2880:f20b:c4:face:b00c:0:43fe scontent-b-ord.cdninstagram.com
-2a03:2880:f227:c4:face:b00c:0:43fe scontent-a-ort.cdninstagram.com
+2a03:2880:f227:2c4:face:b00c:0:43fe scontent-a-ort.cdninstagram.com
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-b-ort.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-a-otp.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-b-otp.cdninstagram.com
-2a03:2880:f247:ca:face:b00c:0:43fe scontent-a-scl.cdninstagram.com
+2a03:2880:f22e:c4:face:b00c:0:43fe scontent-a-scl.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-b-scl.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-a-sea.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-b-sea.cdninstagram.com
-2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-a-sin.cdninstagram.com
+2a03:2880:f239:c5:face:b00c:0:43fe scontent-a-sin.cdninstagram.com
 2a03:2880:f239:1c5:face:b00c:0:43fe scontent-b-sin.cdninstagram.com
 #2a03:2880:f226:c4:face:b00c:0:43fe scontent-a-sit.cdninstagram.com
 #2a03:2880:f226:c4:face:b00c:0:43fe scontent-b-sit.cdninstagram.com
@@ -24418,11 +24418,11 @@
 2600:1417:8000::b81c:da32 igcdn-videos-a-5-a.akamaihd.net
 2600:1417:8000::b81c:da0b igcdn-videos-a-6-a.akamaihd.net
 2600:1417:8000::b81c:da11 igcdn-videos-a-7-a.akamaihd.net
-2600:1417:8000::b81c:da12 igcdn-videos-a-8-a.akamaihd.net
-2600:1417:8000::b81c:da1b igcdn-videos-a-9-a.akamaihd.net
+2600:1417:8000::b81c:da23 igcdn-videos-a-8-a.akamaihd.net
+2600:1417:8000::b81c:da20 igcdn-videos-a-9-a.akamaihd.net
 2600:1417:8000::b81c:da21 igcdn-videos-a-10-a.akamaihd.net
-2600:1417:8000::b81c:da20 igcdn-videos-a-11-a.akamaihd.net
-2600:1417:8000::b81c:da0b igcdn-videos-a-12-a.akamaihd.net
+2600:1417:8000::b81c:da33 igcdn-videos-a-11-a.akamaihd.net
+2600:1417:8000::b81c:da19 igcdn-videos-a-12-a.akamaihd.net
 2600:1417:8000::b81c:da18 igcdn-videos-a-13-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-a-14-a.akamaihd.net
 2600:1417:8000::b81c:da0b igcdn-videos-a-15-a.akamaihd.net
@@ -24436,7 +24436,7 @@
 #2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-3-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-b-4-a.akamaihd.net
 2600:1417:8000::b81c:da1a igcdn-videos-b-5-a.akamaihd.net
-2600:1417:8000::b81c:da10 igcdn-videos-b-6-a.akamaihd.net
+2600:1417:8000::b81c:da19 igcdn-videos-b-6-a.akamaihd.net
 2600:1417:8000::b81c:da20 igcdn-videos-b-7-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-b-8-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-b-9-a.akamaihd.net
@@ -24446,8 +24446,8 @@
 2600:1417:8000::b81c:da08 igcdn-videos-b-13-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-b-14-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-b-15-a.akamaihd.net
-2600:1417:8000::b81c:da22 igcdn-videos-b-16-a.akamaihd.net
-2600:1417:8000::b81c:da18 igcdn-videos-b-17-a.akamaihd.net
+2600:1417:8000::b81c:da30 igcdn-videos-b-16-a.akamaihd.net
+2600:1417:8000::b81c:da21 igcdn-videos-b-17-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-b-18-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-b-19-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-c-0-a.akamaihd.net
@@ -24458,38 +24458,38 @@
 2600:1417:8000::b81c:da0b igcdn-videos-c-5-a.akamaihd.net
 2600:1417:8000::b81c:da12 igcdn-videos-c-6-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-c-7-a.akamaihd.net
-2600:1417:8000::b81c:da12 igcdn-videos-c-8-a.akamaihd.net
+2600:1417:8000::b81c:da20 igcdn-videos-c-8-a.akamaihd.net
 2600:1417:8000::b81c:da2a igcdn-videos-c-9-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-c-10-a.akamaihd.net
 2600:1417:8000::b81c:da0b igcdn-videos-c-11-a.akamaihd.net
-2600:1417:8000::b81c:da1b igcdn-videos-c-12-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-c-12-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-c-13-a.akamaihd.net
 2600:1417:8000::b81c:da12 igcdn-videos-c-14-a.akamaihd.net
-2600:1417:8000::b81c:da11 igcdn-videos-c-15-a.akamaihd.net
+2600:1417:8000::b81c:da23 igcdn-videos-c-15-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-c-16-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-c-17-a.akamaihd.net
 2600:1417:8000::b81c:da2b igcdn-videos-c-18-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-c-19-a.akamaihd.net
-2600:1417:8000::b81c:da12 igcdn-videos-d-0-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-d-0-a.akamaihd.net
 2600:1417:8000::b81c:da12 igcdn-videos-d-1-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-d-2-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-d-3-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-d-4-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-d-5-a.akamaihd.net
 2600:1417:8000::b81c:da18 igcdn-videos-d-6-a.akamaihd.net
-2600:1417:8000::b81c:da0a igcdn-videos-d-7-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-d-7-a.akamaihd.net
 2600:1417:8000::b81c:da2a igcdn-videos-d-8-a.akamaihd.net
 2600:1417:8000::b81c:da12 igcdn-videos-d-9-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-d-10-a.akamaihd.net
-2600:1417:8000::b81c:da19 igcdn-videos-d-11-a.akamaihd.net
+2600:1417:8000::b81c:da2a igcdn-videos-d-11-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-d-12-a.akamaihd.net
-2600:1417:8000::b81c:da30 igcdn-videos-d-13-a.akamaihd.net
+2600:1417:8000::b81c:da32 igcdn-videos-d-13-a.akamaihd.net
 2600:1417:8000::b81c:da21 igcdn-videos-d-14-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-d-15-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-d-16-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-d-17-a.akamaihd.net
 2600:1417:8000::b81c:da1a igcdn-videos-d-18-a.akamaihd.net
-2600:1417:8000::b81c:da1a igcdn-videos-d-19-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-d-19-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-e-0-a.akamaihd.net
 2600:1417:8000::b81c:da1a igcdn-videos-e-1-a.akamaihd.net
 2600:1417:8000::b81c:da11 igcdn-videos-e-2-a.akamaihd.net
@@ -24497,13 +24497,13 @@
 2600:1417:8000::b81c:da0b igcdn-videos-e-4-a.akamaihd.net
 2600:1417:8000::b81c:da18 igcdn-videos-e-5-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-e-6-a.akamaihd.net
-2600:1417:8000::b81c:da0b igcdn-videos-e-7-a.akamaihd.net
-2600:1417:8000::b81c:da11 igcdn-videos-e-8-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-e-7-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-e-8-a.akamaihd.net
 2600:1417:8000::b81c:da20 igcdn-videos-e-9-a.akamaihd.net
 2600:1417:8000::b81c:da0b igcdn-videos-e-10-a.akamaihd.net
-2600:1417:8000::b81c:da11 igcdn-videos-e-11-a.akamaihd.net
+2600:1417:8000::b81c:da20 igcdn-videos-e-11-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-e-12-a.akamaihd.net
-2600:1417:8000::b81c:da2a igcdn-videos-e-13-a.akamaihd.net
+2600:1417:8000::b81c:da32 igcdn-videos-e-13-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-e-14-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-e-15-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-e-16-a.akamaihd.net
@@ -24527,12 +24527,12 @@
 2600:1417:8000::b81c:da12 igcdn-videos-f-14-a.akamaihd.net
 2600:1417:8000::b81c:da22 igcdn-videos-f-15-a.akamaihd.net
 2600:1417:8000::b81c:da1a igcdn-videos-f-16-a.akamaihd.net
-2600:1417:8000::b81c:da2a igcdn-videos-f-17-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-f-17-a.akamaihd.net
 2600:1417:8000::b81c:da18 igcdn-videos-f-18-a.akamaihd.net
-2600:1417:8000::b81c:da10 igcdn-videos-f-19-a.akamaihd.net
+2600:1417:8000::b81c:da13 igcdn-videos-f-19-a.akamaihd.net
 2600:1417:8000::b81c:da0b igcdn-videos-g-0-a.akamaihd.net
 2600:1417:8000::b81c:da11 igcdn-videos-g-1-a.akamaihd.net
-2600:1417:8000::b81c:da22 igcdn-videos-g-2-a.akamaihd.net
+2600:1417:8000::b81c:da23 igcdn-videos-g-2-a.akamaihd.net
 2600:1417:8000::b81c:da1a igcdn-videos-g-3-a.akamaihd.net
 2600:1417:8000::b81c:da28 igcdn-videos-g-4-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-g-5-a.akamaihd.net
@@ -24545,31 +24545,31 @@
 2600:1417:8000::b81c:da12 igcdn-videos-g-12-a.akamaihd.net
 2600:1417:8000::b81c:da19 igcdn-videos-g-13-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-g-14-a.akamaihd.net
-2600:1417:8000::b81c:da22 igcdn-videos-g-15-a.akamaihd.net
+2600:1417:8000::b81c:da33 igcdn-videos-g-15-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-g-16-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-g-17-a.akamaihd.net
 2600:1417:8000::b81c:da21 igcdn-videos-g-18-a.akamaihd.net
 2600:1417:8000::b81c:da11 igcdn-videos-g-19-a.akamaihd.net
-2600:1417:8000::b81c:da0b igcdn-videos-h-0-a.akamaihd.net
+2600:1417:8000::b81c:da10 igcdn-videos-h-0-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-h-1-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-h-2-a.akamaihd.net
 2600:1417:8000::b81c:da18 igcdn-videos-h-3-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-h-4-a.akamaihd.net
-2600:1417:8000::b81c:da0a igcdn-videos-h-5-a.akamaihd.net
+2600:1417:8000::b81c:da21 igcdn-videos-h-5-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-h-6-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-h-7-a.akamaihd.net
 2600:1417:8000::b81c:da09 igcdn-videos-h-8-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-h-9-a.akamaihd.net
 2600:1417:8000::b81c:da08 igcdn-videos-h-10-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-h-11-a.akamaihd.net
-2600:1417:8000::b81c:da1a igcdn-videos-h-12-a.akamaihd.net
-2600:1417:8000::b81c:da29 igcdn-videos-h-13-a.akamaihd.net
+2600:1417:8000::b81c:da23 igcdn-videos-h-12-a.akamaihd.net
+2600:1417:8000::b81c:da23 igcdn-videos-h-13-a.akamaihd.net
 2600:1417:8000::b81c:da28 igcdn-videos-h-14-a.akamaihd.net
-2600:1417:8000::b81c:da20 igcdn-videos-h-15-a.akamaihd.net
+2600:1417:8000::b81c:da2a igcdn-videos-h-15-a.akamaihd.net
 2600:1417:8000::b81c:da1b igcdn-videos-h-16-a.akamaihd.net
 2600:1417:8000::b81c:da0a igcdn-videos-h-17-a.akamaihd.net
 2600:1417:8000::b81c:da10 igcdn-videos-h-18-a.akamaihd.net
-2600:1417:8000::b81c:da1b igcdn-videos-h-19-a.akamaihd.net
+2600:1417:8000::b81c:da21 igcdn-videos-h-19-a.akamaihd.net
 2600:1417:8000::b81c:da62 instagramimages-a.akamaihd.net
 2600:1417:8000::b81c:da79 instagramstatic-a.akamaihd.net
 #2001:590:1:501::42ab:e018 photos-a.ak.instagram.com #photos-a.ak.instagram.com.edgesuite.net
@@ -25460,7 +25460,7 @@
 ## 其他IPv6网站
 ## US 美国
 ## Easylist系列
-2a01:4f8:192:7126::2 easylist-downloads.adblockplus.org
+2a01:4f8:211:134f::2 easylist-downloads.adblockplus.org
 
 ## LEDE Project
 2a03:b0c0:3:d0::1af1:1 lede-project.org
@@ -25488,9 +25488,9 @@
 
 ## Microsoft 微软
 #2600:1406:3f:299::356e www.microsoft.com #e10088.dscb.akamaiedge.net
-2600:1417:8000:586::2886 i.microsoft.com
-2600:1417:8000:586::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:8000:586::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:8000:18a::2886 i.microsoft.com
+2600:1417:8000:18a::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:8000:18a::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 #2600:1406:3f:299::e59 download.microsoft.com
 #2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
@@ -25504,8 +25504,8 @@
 #2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 #157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 #2620:1ec:c11::212 storage.live.com
-2600:1417:8000:587::1c24 s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1417:8000:587::1c24 s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1417:8000:18a::1c24 s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1417:8000:18a::1c24 s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 #2600:1406:3f:299::6bb officecdn.microsoft.com #e1723.dscd.akamaiedge.net
 #2620:1ec:c11::200 www.bing.com
 2620:1ec:c11::200 www2.bing.com
@@ -25542,7 +25542,7 @@
 2001:4998:18:800::4002 l1.yimg.com #l.gycs.b.yahoodns.net
 2001:4998:18:800::4002 l2.yimg.com #any-l.aycs.b.yahoodns.net
 2001:4998:18:800::4002 l3.yimg.com #any-l.aycs.b.yahoodns.net
-2406:2000:e4:2037::4000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
+2406:2000:e4:1504::e000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
 
 ## Uncyclopedia
 2606:4700:30::681c:1a21 uncyclopedia.hk
@@ -25621,7 +25621,7 @@
 
 ## AMD
 #2600:1406:3f:299::b51 www.amd.com
-2600:1417:8000:593::554 community.amd.com
+2600:1417:8000:49c::554 community.amd.com
 #2600:1406:3f:299::2b39 ir.amd.com
 #2600:1406:3f:299::b51 shop.amd.com
 #2600:1406:3f:299::b51 support.amd.com
@@ -25642,7 +25642,7 @@
 #2600:1406:3f:299::b iq.intel.com
 #2600:1406:3f:299::b newsroom.intel.com
 #2600:1406:3f:299::b software.intel.com
-2600:1417:8000:58b::ae6 embedded.communities.intel.com
+2600:1417:8000:5b6::ae6 embedded.communities.intel.com
 #2600:1406:3f:299::358a videocdn.intel.cn
 
 ## Coursera
@@ -25696,8 +25696,8 @@
 
 ## AT 奥地利
 ## Tor Project
-2a01:4f8:172:1b46:0:abba:5:1 torproject.org
-2a01:4f8:172:1b46:0:abba:5:1 www.torproject.org
+2a01:4f8:fff0:4f:266:37ff:fe2c:5d19 torproject.org
+2a01:4f8:fff0:4f:266:37ff:fe2c:5d19 www.torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 deb.torproject.org #www.torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 dist.torproject.org
 2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org #troodi.torproject.org
@@ -25803,12 +25803,12 @@
 #2a04:4e42:2e::84 ak.pinterest.com
 #2a04:4e42:2e::84 api.pinterest.com
 #2a04:4e42:2e::84 nl.pinterest.com
-2606:4700::6812:eb0 passets-cdn.pinterest.com
+2600:1417:8000:593::1931 passets-cdn.pinterest.com
 #2a04:4e42:2e::84 www.pinterest.jp
-2606:4700::6812:eb0 s.pinimg.com
-2606:4700::6812:eb0 i.pinimg.com
-2600:1417:8000:586::1931 v.pinimg.com
-2606:4700::6812:eb0 s-media-cache-ak0.pinimg.com
+2600:1417:8000:593::1931 s.pinimg.com
+2600:1417:8000:593::1931 i.pinimg.com
+2600:1417:8000:59f::1931 v.pinimg.com
+2600:1417:8000:593::1931 s-media-cache-ak0.pinimg.com
 
 ## BBC
 2a04:4e42::81 bbc.com
@@ -25896,8 +25896,8 @@
 #2a04:4e42:2e::420 json8.nytimes.com
 #2a04:4e42:2e::420 typeface.nytimes.com
 #151.101.0.164 cigsvc.nytimes.com
-2600:9000:2003:0:18:9b35:e940:93a1 cn.nytimes.com
-2600:9000:2003:1000:15:d56c:d540:93a1 m.cn.nytimes.com
+2600:9000:2016:5200:18:9b35:e940:93a1 cn.nytimes.com
+2600:9000:21e1:2400:15:d56c:d540:93a1 m.cn.nytimes.com
 #122.152.169.5 l0.cn.nytimes.com
 #54.210.141.179 et.nytimes.com
 #52.7.59.79 messaging-notifications.api.nytimes.com
@@ -25909,7 +25909,7 @@
 #23.23.198.251 tagx.nytimes.com
 #52.38.98.191 meter-svc.nytimes.com
 2606:4700:30::681f:5018 cn.nytstyle.com
-2600:9000:2003:200:18:a95e:5140:93a1 m.cn.nytstyle.com
+2600:9000:2139:1a00:18:a95e:5140:93a1 m.cn.nytstyle.com
 #54.249.25.75 sso.nytcn.me
 #2600:9000:2012:c00:13:702f:a6c0:21 static.sxzhchina.com
 #2a04:4e42:2e::420 typeface.nyt.com
@@ -25922,9 +25922,9 @@
 #2a04:4e42:2e::420 js.nyt.com
 #2a04:4e42:2e::420 css.nyt.com
 #2a04:4e42:2e::420 int.nyt.com
-2600:9000:2003:1600:13:702f:a6c0:21 d1f1eryiqyjs0r.cloudfront.net
+2600:9000:2139:3800:13:702f:a6c0:21 d1f1eryiqyjs0r.cloudfront.net
 #2600:9000:2012:4400:8:1cb7:c900:93a1 d3lar09xbwlsge.cloudfront.net
-2600:9000:21b7:600:15:843f:d700:21 d3q1qj9jzsu8nw.cloudfront.net
+2600:9000:21e1:3a00:15:843f:d700:21 d3q1qj9jzsu8nw.cloudfront.net
 #2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
 
 ## EA Games
@@ -25966,22 +25966,22 @@
 
 ## Flickr
 #2001:4998:28:800::4000 flickr.com
-2600:9000:21b7:600:1b:3d3c:224a:1261 www.flickr.com
-2600:9000:2003:1400:14:45b5:5eca:1261 up.flickr.com
-2600:9000:21b7:600:1b:3d3c:224a:1261 api.flickr.com
+2600:9000:21e1:1400:1b:3d3c:224a:1261 www.flickr.com
+2600:9000:21e1:400:14:45b5:5eca:1261 up.flickr.com
+2600:9000:21e1:1400:1b:3d3c:224a:1261 api.flickr.com
 #98.136.145.80 secure.flickr.com
-2600:9000:21b7:600:1b:3d3c:224a:1261 m.flickr.com
+2600:9000:21e1:1400:1b:3d3c:224a:1261 m.flickr.com
 #203.84.197.27 heartbeat.flickr.com
 #192.0.79.33 code.flickr.com
 #2a00:1288:88:800::4001 c.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c1.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c2.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c3.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c4.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c5.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c6.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c7.staticflickr.com
-2600:9000:2003:3400:0:5a51:64c9:c681 c8.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c1.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c2.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c3.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c4.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c5.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c6.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c7.staticflickr.com
+2600:9000:21e1:1000:0:5a51:64c9:c681 c8.staticflickr.com
 #2406:2000:fc:402::c:2207 c9.staticflickr.com
 2001:4998:18:800::4002 s.yimg.com #s.gycs.b.yahoodns.net
 
@@ -26269,7 +26269,7 @@
 #199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
 #104.244.46.167 amp.twimg.com #ipv6.twimg.com
 2606:2800:248:1347:709:24f:182c:618 dnt.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 ea.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 ea.twimg.com #ipv6.twimg.com
 2606:2800:248:1347:709:24f:182c:618 g.twimg.com #ipv6.twimg.com
 2606:2800:248:1347:709:24f:182c:618 g2.twimg.com #ipv6.twimg.com
 2606:2800:248:1347:709:24f:182c:618 gu.twimg.com #ipv6.twimg.com
